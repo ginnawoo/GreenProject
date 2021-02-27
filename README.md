@@ -1,2 +1,2 @@
 # GreenProject
-Draft concept of an app for eco-friendly communities. 
+Draft concept for an app for eco-friendly communities. Tool utilized: Adobe InDesign
